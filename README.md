@@ -1,3 +1,3 @@
 # IPP
 
-Laboratories work at IPP
+Laboratories at IPP
