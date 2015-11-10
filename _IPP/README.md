@@ -1,19 +1,19 @@
 ## Laboratory Work 0
 ### Prototyping
 
-In this laboratory work I created an OAuth service using java REST services.
-It has 3 type of url:
-http://127.0.0.1:8080/rest-ipp_1.0/rest/register?in='{"app_id":"0","email":"mail@mail.com","pass":"qwerty","name_surname":"username"}'
-http://127.0.0.1:8080/rest-ipp_1.0/rest/login?in='{"email":"mail@mail.com","pass":"qwerty"}'
-http://127.0.0.1:8080/rest-ipp_1.0/rest/get_last_login?in='{"token":"sasdsadasdasd"}'
+#In this laboratory work I created an OAuth service using java REST services.
+#It has 3 type of url:
+#http://127.0.0.1:8080/rest-ipp_1.0/rest/register?in='{"app_id":"0","email":"mail@mail.com","pass":"qwerty","name_surname":"username"}'
+#http://127.0.0.1:8080/rest-ipp_1.0/rest/login?in='{"email":"mail@mail.com","pass":"qwerty"}'
+#http://127.0.0.1:8080/rest-ipp_1.0/rest/get_last_login?in='{"token":"sasdsadasdasd"}'
 
 
 
 #### How to run the application
-1.Install mongo db
-2.Create a database _ipp
-3.Install glassfish server
-4.Run project
+-Install mongo db
+-Create a database _ipp
+-Install glassfish server
+-Run project
 
 
 
