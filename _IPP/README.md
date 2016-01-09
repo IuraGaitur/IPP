@@ -18,19 +18,22 @@
 
 ######Technical issue
 There is no such field as role which will grant users different permissions such as simple user or admin.
+
 ######How to improve
-*Add user role field in the scheme for granting different access
-*Add user role field when user is registering
+* Add user role field in the scheme for granting different access
+* Add user role field when user is registering
 
 ######Technical issue
 Register and Login should be POST methods and not GET because it is not secure to send params through address line
+
 ######How to improve
-*Change methods signature from GET to POST
+* Change methods signature from GET to POST
 
 ######Technical issue
 Aplication id field should be a hash and not an integer because integer is finite and also because it is not secure
+
 ######How to improve
-*Change appId field to UUID
+* Change appId field to UUID
 
 
 ####Conclusion: 
